@@ -1,0 +1,7 @@
+C:\Users\freel\source\repos\PSP\PSP\obj\Debug\PSP.csprojAssemblyReference.cache
+C:\Users\freel\source\repos\PSP\PSP\obj\Debug\PSP.csproj.CoreCompileInputs.cache
+C:\Users\freel\source\repos\PSP\PSP\bin\Debug\PSP.exe.config
+C:\Users\freel\source\repos\PSP\PSP\bin\Debug\PSP.exe
+C:\Users\freel\source\repos\PSP\PSP\bin\Debug\PSP.pdb
+C:\Users\freel\source\repos\PSP\PSP\obj\Debug\PSP.exe
+C:\Users\freel\source\repos\PSP\PSP\obj\Debug\PSP.pdb
